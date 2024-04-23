@@ -1,0 +1,775 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1670\\BTvisual\\Demo3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\models\\joblisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\models\\joblisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\joblistings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\joblistings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\controllers\\joblistingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\controllers\\joblistingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\joblistings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\joblistings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\controllers\\jobapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\controllers\\jobapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\controllers\\jobseekerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\controllers\\jobseekerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\data\\migrations\\20240410161613_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\data\\migrations\\20240410161613_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\jobapplications\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\jobapplications\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\joblistings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\joblistings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\jobseekers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\jobseekers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\jobapplications\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\jobapplications\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\jobseekers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\jobseekers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\jobapplications\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\jobapplications\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\companies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\companies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\companies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\companies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\jobapplications\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\jobapplications\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\jobapplications\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\jobapplications\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\joblistings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\joblistings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\joblistings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\joblistings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\companies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\companies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\companies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\companies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\jobseekers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\jobseekers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\jobseekers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\jobseekers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\views\\jobseekers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\views\\jobseekers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\1670\\BTvisual\\Demo3\\Demo3\\Data\\Migrations\\20240410161313_intialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo3\\Data\\Migrations\\20240410161313_intialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|d:\\1670\\btvisual\\demo3\\demo3\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88FA25E-7DD6-4E95-916A-1D93B1845FB4}|Demo3\\Demo3.csproj|solutionrelative:demo3\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 239,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\.gitignore",
+              "RelativeDocumentMoniker": "Demo3\\.gitignore",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\.gitignore",
+              "RelativeToolTip": "Demo3\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-23T05:40:29.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobListingsController.cs",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Controllers\\JobListingsController.cs",
+              "RelativeDocumentMoniker": "Demo3\\Controllers\\JobListingsController.cs",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Controllers\\JobListingsController.cs",
+              "RelativeToolTip": "Demo3\\Controllers\\JobListingsController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:10:39.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobListing.cs",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Models\\JobListing.cs",
+              "RelativeDocumentMoniker": "Demo3\\Models\\JobListing.cs",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Models\\JobListing.cs",
+              "RelativeToolTip": "Demo3\\Models\\JobListing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T07:44:03.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "Demo3\\Controllers\\CompaniesController.cs",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "Demo3\\Controllers\\CompaniesController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAYwJwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:09:52.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobListings\\Details.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\JobListings\\Details.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobListings\\Details.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\JobListings\\Details.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAE4AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T07:50:30.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobApplicationsController.cs",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Controllers\\JobApplicationsController.cs",
+              "RelativeDocumentMoniker": "Demo3\\Controllers\\JobApplicationsController.cs",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Controllers\\JobApplicationsController.cs",
+              "RelativeToolTip": "Demo3\\Controllers\\JobApplicationsController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:12:14.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Demo3\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Demo3\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:55:51.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "Demo3\\Models\\Company.cs",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Models\\Company.cs",
+              "RelativeToolTip": "Demo3\\Models\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T07:38:02.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobSeekersController.cs",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Controllers\\JobSeekersController.cs",
+              "RelativeDocumentMoniker": "Demo3\\Controllers\\JobSeekersController.cs",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Controllers\\JobSeekersController.cs",
+              "RelativeToolTip": "Demo3\\Controllers\\JobSeekersController.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAuwFAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:11:30.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240410161613_intialCreate.cs",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Data\\Migrations\\20240410161613_intialCreate.cs",
+              "RelativeDocumentMoniker": "Demo3\\Data\\Migrations\\20240410161613_intialCreate.cs",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Data\\Migrations\\20240410161613_intialCreate.cs",
+              "RelativeToolTip": "Demo3\\Data\\Migrations\\20240410161613_intialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:16:13.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobApplications\\Create.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\JobApplications\\Create.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobApplications\\Create.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\JobApplications\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T08:40:55.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobListings\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\JobListings\\Index.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobListings\\Index.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\JobListings\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T04:22:18.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JobSeeker.cs",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Models\\JobSeeker.cs",
+              "RelativeDocumentMoniker": "Demo3\\Models\\JobSeeker.cs",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Models\\JobSeeker.cs",
+              "RelativeToolTip": "Demo3\\Models\\JobSeeker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T07:45:14.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobListings\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\JobListings\\Edit.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobListings\\Edit.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\JobListings\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwC0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T04:22:09.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T10:34:09.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobSeekers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\JobSeekers\\Index.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobSeekers\\Index.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\JobSeekers\\Index.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAEIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T03:06:17.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobApplications\\Details.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\JobApplications\\Details.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobApplications\\Details.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\JobApplications\\Details.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T08:41:42.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobApplications\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\JobApplications\\Index.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobApplications\\Index.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\JobApplications\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T08:40:57.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JobApplication.cs",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Models\\JobApplication.cs",
+              "RelativeDocumentMoniker": "Demo3\\Models\\JobApplication.cs",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Models\\JobApplication.cs",
+              "RelativeToolTip": "Demo3\\Models\\JobApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T07:45:55.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T05:55:29.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T05:55:30.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Demo3\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T06:59:22.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "Demo3\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "Demo3\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:51:15.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobSeekers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\JobSeekers\\Details.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobSeekers\\Details.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\JobSeekers\\Details.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAEEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T03:46:51.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo3\\appsettings.json",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\appsettings.json",
+              "RelativeToolTip": "Demo3\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-10T08:00:45.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\Companies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\Companies\\Index.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\Companies\\Index.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\Companies\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T04:05:23.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Program.cs",
+              "RelativeDocumentMoniker": "Demo3\\Program.cs",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Program.cs",
+              "RelativeToolTip": "Demo3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:01:08.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Demo3\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Demo3\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:01:02.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\Companies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\Companies\\Delete.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\Companies\\Delete.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\Companies\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T03:41:17.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\Companies\\Create.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\Companies\\Create.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\Companies\\Create.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\Companies\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T16:36:49.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Demo3\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Demo3\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:23:09.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwFoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T11:07:25.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T11:07:53.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobApplications\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\JobApplications\\Edit.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobApplications\\Edit.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\JobApplications\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T08:42:01.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobApplications\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\JobApplications\\Delete.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobApplications\\Delete.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\JobApplications\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T08:41:35.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T11:08:03.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobListings\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\JobListings\\Delete.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobListings\\Delete.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\JobListings\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T07:50:09.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobListings\\Create.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\JobListings\\Create.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobListings\\Create.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\JobListings\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T04:21:53.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Demo3\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Demo3\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:52:10.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Demo3\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Demo3\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-10T07:32:36.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\Companies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\Companies\\Edit.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\Companies\\Edit.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\Companies\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T04:05:04.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\Companies\\Details.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\Companies\\Details.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\Companies\\Details.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\Companies\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T04:05:03.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobSeekers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\JobSeekers\\Create.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobSeekers\\Create.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\JobSeekers\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswDEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T02:58:53.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20240410161313_intialCreate.cs",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Data\\Migrations\\20240410161313_intialCreate.cs",
+              "RelativeDocumentMoniker": "Demo3\\Data\\Migrations\\20240410161313_intialCreate.cs",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Data\\Migrations\\20240410161313_intialCreate.cs",
+              "RelativeToolTip": "Demo3\\Data\\Migrations\\20240410161313_intialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:13:14.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobSeekers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\JobSeekers\\Edit.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobSeekers\\Edit.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\JobSeekers\\Edit.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T03:45:43.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobSeekers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Demo3\\Views\\JobSeekers\\Delete.cshtml",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Views\\JobSeekers\\Delete.cshtml",
+              "RelativeToolTip": "Demo3\\Views\\JobSeekers\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T03:48:29.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "00000000000000_CreateIdentitySchema.Designer.cs",
+              "DocumentMoniker": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeDocumentMoniker": "Demo3\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ToolTip": "D:\\1670\\BTvisual\\Demo3\\Demo3\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeToolTip": "Demo3\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ViewState": "AQIAANoAAAAAAAAAAAAQwPEAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:53:47.361Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
