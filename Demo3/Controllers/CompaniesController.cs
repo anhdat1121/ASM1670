@@ -27,8 +27,6 @@ namespace Demo3.Controllers
         [Authorize(Roles = "Company")]
         public async Task<IActionResult> Index()
         {
-            //var applicationDbContext = _context.Company.Include(c => c.User);
-            //return View(await applicationDbContext.ToListAsync());
             var userId = _userManager.GetUserId(User); 
             var applicationDbContext = _context.Company.Include(c => c.User).Where(c => c.UserId == userId);
             return View(await applicationDbContext.ToListAsync());
@@ -102,16 +100,12 @@ namespace Demo3.Controllers
 
         // POST: Companies/Edit/5
         [Authorize(Roles = "Company")]
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Address,HotLine,UserId")] Company company)
         {
-            if (id != company.Id)
-            {
-                return NotFound();
-            }
+            if (id != company.Id) { return NotFound(); }
 
             if (ModelState.IsValid)
             {
